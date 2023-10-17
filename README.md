@@ -1,0 +1,2 @@
+# DjangoREST
+DjangoREST educational project
